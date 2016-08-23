@@ -1,0 +1,26 @@
+
+.padre{
+	width:100%;
+	background-color: white;
+	border:2px solid black;
+}
+.caja1{
+	width: 25%;
+	height: 100px;
+    background-color:#FFFF00;
+}
+.caja2{
+	width: 25%;
+	height: 100px;
+	background-color: #0040FF;
+}
+.caja3{
+	width: 25%;
+	height: 100px;
+	background-color: #DF013A;
+}
+.caja1, .caja2,.caja3{
+	float:left;
+}
+
+/* Pon tu código css aqui */
